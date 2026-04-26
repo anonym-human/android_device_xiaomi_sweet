@@ -15,7 +15,7 @@ $(call inherit-product, device/xiaomi/sweet/device.mk)
 # Inherit some common Lineage stuff.
 $(call inherit-product, $(CUSTOM_VENDOR_DIR)/config/common.mk)
 
-PRODUCT_NAME := XOS_sweet
+PRODUCT_NAME := AOSP_sweet
 PRODUCT_DEVICE := sweet
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi Note 10 Pro
