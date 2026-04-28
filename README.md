@@ -8,7 +8,7 @@ For a succesful compile:
 
 3- This sm6150 vendor (https://github.com/xiaomi-sm6150/proprietary_vendor_xiaomi_sm6150-common) should be in /home/pc/halogenOS/vendor/xiaomi/sm6150-common
 
-4- This sm6150 kernel (https://github.com/LineageOS/android_hardware_xiaomi) should be in /home/pc/halogenOS/kernel/xiaomi/sm6150
+4- This sm6150 kernel (https://github.com/LineageOS/android_kernel_xiaomi_sm6150) should be in /home/pc/halogenOS/kernel/xiaomi/sm6150
 
 5- Xiaomi hardware files (https://github.com/LineageOS/android_hardware_xiaomi) shoul be in /home/pc/halogenOS/hardware/xiaomi
 
