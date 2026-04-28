@@ -1,5 +1,12 @@
 Copyright (C) 2023 The LineageOS Project
 
+For a succesful compile:
+1- This device tree should be in /halogenOS/device/xiaomi/sweet
+2- This sweet vendor (https://github.com/TheMuppets/proprietary_vendor_xiaomi_sweet) should be in /halogenOS/vendor/xiaomi/sweet
+3- This sm6150 vendor (https://github.com/xiaomi-sm6150/proprietary_vendor_xiaomi_sm6150-common) should be in /home/pc/halogenOS/vendor/xiaomi/sm6150-common
+4- This sm6150 kernel (/home/pc/halogenOS/kernel/xiaomi/sm6150) should be in /home/pc/halogenOS/kernel/xiaomi/sm6150
+5- Xiaomi hardware files (https://github.com/LineageOS/android_hardware_xiaomi) shoul be in /home/pc/halogenOS/hardware/xiaomi
+
 Device configuration for Xiaomi Redmi Note 10 Pro/Pro Max
 =========================================
 
