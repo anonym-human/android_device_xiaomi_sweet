@@ -4,11 +4,11 @@ For a succesful compile:
 
 1- This device tree should be in /halogenOS/device/xiaomi/sweet
 
-2- This sweet vendor (https://github.com/TheMuppets/proprietary_vendor_xiaomi_sweet) should be in /halogenOS/vendor/xiaomi/sweet
+2- This sm6150 device tree (https://github.com/xiaomi-sm6150/android_device_xiaomi_sm6150-common) should be in /halogenOS/device/xiaomi/sm6150-common
 
-3- This sm6150 vendor (https://github.com/xiaomi-sm6150/proprietary_vendor_xiaomi_sm6150-common) should be in /halogenOS/vendor/xiaomi/sm6150-common
+3- This sweet vendor (https://github.com/TheMuppets/proprietary_vendor_xiaomi_sweet) should be in /halogenOS/vendor/xiaomi/sweet
 
-4- This sm6150 device tree (https://github.com/xiaomi-sm6150/android_device_xiaomi_sm6150-common) should be in /halogenOS/device/xiaomi/sm6150-common
+4- This sm6150 vendor (https://github.com/xiaomi-sm6150/proprietary_vendor_xiaomi_sm6150-common) should be in /halogenOS/vendor/xiaomi/sm6150-common
 
 5- This sm6150 kernel (https://github.com/LineageOS/android_kernel_xiaomi_sm6150) should be in /halogenOS/kernel/xiaomi/sm6150
 
